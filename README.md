@@ -12,6 +12,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=johnsamwe&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsamwe&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=johnsamwe&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=johnsamwe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=johnsamwe&icon=0&color=13)](https://visitcount.itsvg.in)
 
